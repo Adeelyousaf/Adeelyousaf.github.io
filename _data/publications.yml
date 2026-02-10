@@ -3,6 +3,7 @@ main:
     authors: "Adeel Yousaf, Joseph Fioresi, James Beetham, Amrit Singh Bedi, Mubarak Shah"
     conference: "AAAI Conference on Artificial Intelligence (AAAI), Main Technical Track, 2026"
     conference_short: "AAAI"
+    image: "assets/img/safer-clip.png"
     notes: "Main Track"
 
   - title: "Enhancing Vision-Language Models for Zero-Shot Video Action Recognition via Visual-Textual Refinement and Improved Interpretability"
