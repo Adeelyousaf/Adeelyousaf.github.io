@@ -1,3 +1,4 @@
+main:
   - title: "SafeR-CLIP: Mitigating NSFW Content in Vision-Language Models While Preserving Pre-Trained Knowledge"
     authors: "Adeel Yousaf, Joseph Fioresi, James Beetham, Amrit Singh Bedi, Mubarak Shah"
     conference: "AAAI Conference on Artificial Intelligence (AAAI), Main Technical Track, 2026"
@@ -6,3 +7,15 @@
     pdf: "https://arxiv.org/abs/2511.16743"
     page: "https://adeelyousaf.github.io/SC-Project-Page/"
     notes: "Main Track"
+
+
+  - title: "Enhancing Vision-Language Models for Zero-Shot Video Action Recognition via Visual-Textual Refinement and Improved Interpretability"
+    authors: "Adeel Yousaf, Mubarak Shah"
+    conference: "International Conference on Computer Vision (ICCV) Workshop, 2025"
+    conference_short: "ICCV"
+    notes: "Oral"
+
+  - title: "EventTransAct: A Video Transformer-Based Framework for Event-Camera Based Action Recognition"
+    authors: "Tristan de Blegiers, Ishan Dave, Adeel Yousaf, Mubarak Shah"
+    conference: "IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023"
+    conference_short: "IROS"
