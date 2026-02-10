@@ -13,7 +13,7 @@ main:
     authors: "Adeel Yousaf, Mubarak Shah"
     conference: "International Conference on Computer Vision (ICCV) Workshop, 2025"
     conference_short: "ICCV"
-    image: "assets/img/iccv25.png"
+    image: "assets/img/iccv_25_v2.png"
     pdf: "https://openaccess.thecvf.com/content/ICCV2025W/STREAM/papers/Yousaf_Enhancing_Vision-Language_Models_for_Zero-Shot_Video_Action_Recognition_via_Visual-Textual_ICCVW_2025_paper.pdf"
     notes: "Oral"
 
