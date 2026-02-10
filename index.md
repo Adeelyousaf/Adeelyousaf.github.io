@@ -4,11 +4,12 @@ layout: homepage
 
 ## About Me
 
-I am a **Ph.D. student in Computer Engineering at the University of Central Florida**, advised by **Dr. Mubarak Shah**, and a **Fulbright Ph.D. Scholar**.
+I am a Ph.D. student in Computer Engineering at the University of Central Florida, advised by Dr. Mubarak Shah, and a Fulbright Ph.D. Scholar.
 
-My research lies at the intersection of **vision–language models, AI safety, and robust representation learning**. I focus on improving the **safety, interpretability, and generalization** of large pre-trained multimodal models, with particular emphasis on **NSFW content mitigation, zero-shot learning, and robustness under distribution shift**.
+My research lies at the intersection of vision–language models, AI safety, and robust representation learning. I focus on improving the safety, interpretability, and generalization of large pre-trained multimodal models, with particular emphasis on NSFW content mitigation, zero-shot learning, and robustness under distribution shift.
 
-I have also worked on **video understanding and biometric recognition** problems in large-scale, real-world settings, including government-funded research projects. My goal is to develop principled methods that make vision–language systems more reliable and deployable in safety-critical applications.
+I have also worked on video understanding and biometric recognition problems in large-scale, real-world settings, including government-funded research projects. My goal is to develop principled methods that make vision–language systems more reliable and deployable in safety-critical applications.
+
 ---
 
 ## Research Interests
