@@ -4,7 +4,7 @@ main:
     conference: "AAAI Conference on Artificial Intelligence (AAAI), Main Technical Track, 2026"
     conference_short: "AAAI"
     image: "assets/img/pubs/safer-clip.png"
-    pdf: "https://arxiv.org/abs/2511.16743"
+    pdf: "https://arxiv.org/2511.16743"
     page: "https://adeelyousaf.github.io/SC-Project-Page/"
     notes: "Main Track"
 
