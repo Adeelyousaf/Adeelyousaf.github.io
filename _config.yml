@@ -26,7 +26,7 @@ twitter: https://twitter.com/   # optional; remove if unused
 # Images
 # =========================
 # Replace avatar.png later with your own photo (same filename)
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/adeel_avatar.jpeg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
