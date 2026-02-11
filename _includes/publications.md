@@ -11,7 +11,7 @@
     <!-- Thumbnail / Badge -->
     <div class="col-sm-3 abbr" style="padding-right:15px;">
       {% if pub.image %}
-        <img src="{{ pub.image }}" class="teaser img-fluid z-depth-1" style="width:100%; max-width:260px; height:auto;">
+        <img src="{{ pub.image }}" class="teaser img-fluid z-depth-1" style="width:100%; max-width:220px; height:auto;">
         {% if pub.conference_short %}
           <abbr class="badge">{{ pub.conference_short }}</abbr>
         {% endif %}
