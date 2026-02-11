@@ -22,6 +22,6 @@ main:
     authors: "Tristan de Blegiers, Ishan Dave, Adeel Yousaf, Mubarak Shah"
     conference: "International Conference on Intelligent Robots and Systems (IROS), 2023"
     conference_short: "IROS"
-    image: "assets/img/irostransact.png"
+    image: "assets/img/iros_v2.png"
     pdf: "https://ieeexplore.ieee.org/abstract/document/10341740"
     page: "https://tristandb8.github.io/EventTransAct_webpage/"
