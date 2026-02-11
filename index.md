@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Fulbright Ph.D. Scholar at the University of Central Florida, where I am advised by Dr. Mubarak Shah. My research focuses on Responsible AI (AI-Safety), specifically developing methods for NSFW content mitigation in vision–language and diffusion models. I have also worked on funded research projects, including IARPA’s BRIAR program, focusing on biometric recognition and person re-identification in large-scale, real-world settings. Feel free to reach out with questions or to discuss research!
+I am a Fulbright Ph.D. Scholar at the University of Central Florida (UCF), where I am advised by Dr. Mubarak Shah. My research focuses on Responsible AI (AI-Safety), specifically developing methods for NSFW content mitigation in vision–language and diffusion models. I have also worked on funded research projects, including IARPA’s BRIAR program, focusing on biometric recognition and person re-identification in large-scale, real-world settings. Feel free to reach out with questions or to discuss research!
 
 ---
 
