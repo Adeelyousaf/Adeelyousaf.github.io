@@ -26,8 +26,8 @@ linkedin: https://www.linkedin.com/in/adeel-yousaf-aa58b71a8/
 # =========================
 # Replace avatar.png later with your own photo (same filename)
 avatar: ./assets/img/adeel_avatar.jpeg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/ucf.png
+favicon_dark: ./assets/img/ucf.png
 
 # =========================
 # Footer
