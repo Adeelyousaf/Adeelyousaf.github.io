@@ -4,18 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in Computer Engineering at the University of Central Florida, advised by Dr. Mubarak Shah, and a Fulbright Ph.D. Scholar.
-
-My research lies at the intersection of vision–language models, AI safety, and robust representation learning. I focus on improving the safety, interpretability, and generalization of large pre-trained multimodal models, with particular emphasis on NSFW content mitigation, zero-shot learning, and robustness under distribution shift.
-
-I have also worked on video understanding and biometric recognition problems in large-scale, real-world settings, including government-funded research projects. My goal is to develop principled methods that make vision–language systems more reliable and deployable in safety-critical applications.
+I am a Fulbright Ph.D. Scholar at the University of Central Florida, where I am advised by Dr. Mubarak Shah. My research focuses on Responsible AI (AI-Safety), specifically developing methods for NSFW content mitigation in vision–language and diffusion models. I have also worked on funded research projects, including IARPA’s BRIAR program, focusing on biometric recognition and person re-identification in large-scale, real-world settings. Feel free to reach out with questions or to discuss research!
 
 ---
 
 ## Research Interests
 
-- Vision–Language Models (CLIP, multimodal alignment)
 - AI Safety and NSFW Content Mitigation
+- Vision–Language Models
 - Robustness, Generalization, and Zero-Shot Learning
 - Video Understanding and Action Recognition
 
