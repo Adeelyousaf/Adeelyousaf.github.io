@@ -19,6 +19,7 @@ I am a Fulbright Ph.D. Scholar at the University of Central Florida (UCF), where
 
 ## News
 
+- **[Jun. 2026]** *The Illusion of High Utility in Safety Alignment of Text-to-Image Diffusion Models* accepted to **ECCV 2026**.
 - **[Nov. 2025]** *SafeR-CLIP* accepted to **AAAI 2026 (Main Technical Track)**.
 - **[Aug. 2025]** ICCV 2025 Workshop paper accepted (**Oral Presentation**).
 - **[Jun. 2023]** Paper accepted to **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)**.

@@ -1,4 +1,13 @@
 main:
+  - title: "The Illusion of High Utility in Safety Alignment of Text-to-Image Diffusion Models"
+    authors: "Adeel Yousaf, Soumik Ghosh, James Beetham, Amrit Singh Bedi, Mubarak Shah"
+    conference: "European Conference on Computer Vision (ECCV), 2026"
+    conference_short: "ECCV"
+    image: "assets/img/sage-eccv26.png"
+    pdf: "https://arxiv.org/abs/2607.00402"
+    page: "https://adeelyousaf.github.io/SAGE_ECCV26_Project_Page/"
+
+
   - title: "SafeR-CLIP: Mitigating NSFW Content in Vision-Language Models While Preserving Pre-Trained Knowledge"
     authors: "Adeel Yousaf, Joseph Fioresi, James Beetham, Amrit Singh Bedi, Mubarak Shah"
     conference: "AAAI Conference on Artificial Intelligence (AAAI), 2026"
