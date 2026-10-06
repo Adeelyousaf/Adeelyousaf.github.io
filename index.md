@@ -4,14 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Fulbright Ph.D. Scholar at the University of Central Florida (UCF), where I am advised by Dr. Mubarak Shah. My research focuses on Responsible AI (AI-Safety), specifically developing methods for NSFW content mitigation in vision–language and diffusion models. I have also worked on funded research projects, including IARPA’s BRIAR program, focusing on biometric recognition and person re-identification in large-scale, real-world settings. Feel free to reach out with questions or to discuss research!
+I am a **fifth-year Ph.D. student** at the **University of Central Florida (UCF)**, where I am advised by **Dr. Mubarak Shah**. My research focuses on AI safety for multimodal models, with an emphasis on safety alignment that preserves utility: reducing harmful outputs in vision–language, text-to-image diffusion, and multimodal reasoning models without eroding what the base model already knows. My work has been published in prestigious conferences such as **NeurIPS**, **ECCV**, and **AAAI**. I have also worked on funded research projects from DARPA and IARPA, spanning safety alignment of multimodal reasoning models and person re-identification at altitude and range. Earlier in my Ph.D., I worked on video understanding and action recognition.
 
 ---
 
 ## Research Interests
 
-- AI Safety and NSFW Content Mitigation
-- Vision–Language Models
+- AI Safety and Alignment of Multimodal Models
+- Vision–Language and Multimodal Reasoning Models
+- Text-to-Image Diffusion Models
 - Robustness, Generalization, and Zero-Shot Learning
 - Video Understanding and Action Recognition
 
