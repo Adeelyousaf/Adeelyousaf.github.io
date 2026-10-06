@@ -21,6 +21,7 @@ I am a **fifth-year Ph.D. student** at the **University of Central Florida (UCF)
 ## News
 
 - **[Oct. 2026]** Paper accepted to <span class="news-conf">NeurIPS 2026</span> (First Author, Main Track).
+- **[Jul. 2026]** Served as a reviewer for the [Trustworthy AI for Good (AI4GOOD)](https://trustworthy-ai-for-good.github.io/icml-2026.html) Workshop at <span class="news-conf">ICML 2026</span>.
 - **[Jun. 2026]** Paper accepted to <span class="news-conf">ECCV 2026</span> (First Author, Main Track).
 - **[Nov. 2025]** Paper accepted to <span class="news-conf">AAAI 2026</span> (First Author, Main Track).
 - **[Aug. 2025]** Paper accepted to <span class="news-conf">ICCV 2025</span> Workshop (First Author, Oral Presentation).

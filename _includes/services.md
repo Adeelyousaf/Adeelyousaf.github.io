@@ -4,7 +4,9 @@
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023–2026
 - IEEE/CVF International Conference on Computer Vision (ICCV), 2025
 - European Conference on Computer Vision (ECCV), 2023
-- AAAI Conference on Artificial Intelligence (AAAI), 2026
+- IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026
+- British Machine Vision Conference (BMVC), 2026
+- AAAI Conference on Artificial Intelligence (AAAI), 2026–2027
 - International Conference on Learning Representations (ICLR), 2026
 
 ### Journal Reviewer
