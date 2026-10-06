@@ -19,11 +19,11 @@ I am a Fulbright Ph.D. Scholar at the University of Central Florida (UCF), where
 
 ## News
 
-- **[Oct. 2026]** *Safe in Its Own Words: Self-Guided Safety Alignment for Multimodal Reasoning Models* accepted to <span class="news-conf">NeurIPS 2026 (Main Track)</span>.
-- **[Jun. 2026]** *The Illusion of High Utility in Safety Alignment of Text-to-Image Diffusion Models* accepted to <span class="news-conf">ECCV 2026</span>.
-- **[Nov. 2025]** *SafeR-CLIP* accepted to <span class="news-conf">AAAI 2026 (Main Technical Track)</span>.
-- **[Aug. 2025]** <span class="news-conf">ICCV 2025</span> Workshop paper accepted (**Oral Presentation**).
-- **[Jun. 2023]** Paper accepted to <span class="news-conf">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)</span>.
+- **[Oct. 2026]** Paper accepted to <span class="news-conf">NeurIPS 2026</span> (First Author, Main Track).
+- **[Jun. 2026]** Paper accepted to <span class="news-conf">ECCV 2026</span> (First Author).
+- **[Nov. 2025]** Paper accepted to <span class="news-conf">AAAI 2026</span> (First Author, Main Track).
+- **[Aug. 2025]** Paper accepted to <span class="news-conf">ICCV 2025</span> Workshop (First Author, Oral Presentation).
+- **[Jun. 2023]** Paper accepted to <span class="news-conf">IROS 2023</span>.
 - **[May 2022]** Began research on the **Biometric Recognition and Identification at Altitude and Range (BRIAR)** program, funded by **IARPA**.
 - **[Jan. 2022]** Started Ph.D. at the **University of Central Florida** under **Dr. Mubarak Shah**; awarded the **Fulbright Ph.D. Fellowship**.
 
