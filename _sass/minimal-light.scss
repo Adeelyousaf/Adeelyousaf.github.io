@@ -597,18 +597,5 @@ footer {
 }
 
 .news-conf {
-  display: inline-block;
-  padding: 1px 9px;
-  border-radius: 4px;
   font-weight: 700;
-  letter-spacing: 0.02em;
-  color: #fff;
-  background-color: #1f6feb;
-}
-
-@media (prefers-color-scheme: dark) {
-  .news-conf {
-    background-color: #3eb7f0;
-    color: #0d1117;
-  }
 }
