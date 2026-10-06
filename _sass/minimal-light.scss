@@ -599,27 +599,16 @@ footer {
 .news-conf {
   display: inline-block;
   padding: 1px 9px;
-  border-radius: 5px;
+  border-radius: 4px;
   font-weight: 700;
+  letter-spacing: 0.02em;
   color: #fff;
-  background: linear-gradient(270deg, #ff5f6d, #ffc371, #47cf73, #2193f0, #ff5f6d);
-  background-size: 400% 400%;
-  animation: news-conf-glow 4s ease infinite, news-conf-pulse 1.8s ease-in-out infinite;
+  background-color: #1f6feb;
 }
 
-@keyframes news-conf-glow {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-@keyframes news-conf-pulse {
-  0%, 100% { box-shadow: 0 0 0 rgba(33, 147, 240, 0); transform: scale(1); }
-  50% { box-shadow: 0 0 10px rgba(33, 147, 240, 0.55); transform: scale(1.05); }
-}
-
-@media (prefers-reduced-motion: reduce) {
+@media (prefers-color-scheme: dark) {
   .news-conf {
-    animation: none;
+    background-color: #3eb7f0;
+    color: #0d1117;
   }
 }
