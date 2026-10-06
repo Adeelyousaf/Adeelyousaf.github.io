@@ -37,3 +37,5 @@ main:
     image: "assets/img/iros_v2.png"
     pdf: "https://ieeexplore.ieee.org/abstract/document/10341740"
     page: "https://tristandb8.github.io/EventTransAct_webpage/"
+    code: "https://github.com/tristandb8/EventTransAct"
+    video: "https://www.youtube.com/watch?v=YCff-rTrgco"
