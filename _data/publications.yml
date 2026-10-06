@@ -21,7 +21,6 @@ main:
     code: "https://github.com/Adeelyousaf/SafeRCLIP"
     huggingface: "https://huggingface.co/Adeely93/SafeR_CLIP"
     dataset: "https://huggingface.co/datasets/Adeely93/NSFWCaps"
-    notes: "Main Track"
 
 
   - title: "Enhancing Vision-Language Models for Zero-Shot Video Action Recognition via Visual-Textual Refinement and Improved Interpretability"
