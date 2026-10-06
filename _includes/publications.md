@@ -42,6 +42,12 @@
         {% if pub.code %}
           <a href="{{ pub.code }}" class="btn btn-sm z-depth-0" target="_blank">Code</a>
         {% endif %}
+        {% if pub.video %}
+          <a href="{{ pub.video }}" class="btn btn-sm z-depth-0" target="_blank">Video</a>
+        {% endif %}
+        {% if pub.huggingface %}
+          <a href="{{ pub.huggingface }}" class="btn btn-sm z-depth-0" target="_blank">HF Model</a>
+        {% endif %}
         {% if pub.page %}
           <a href="{{ pub.page }}" class="btn btn-sm z-depth-0" target="_blank">Project Page</a>
         {% endif %}

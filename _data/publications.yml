@@ -6,6 +6,9 @@ main:
     image: "assets/img/sage-eccv26.png"
     pdf: "https://arxiv.org/abs/2607.00402"
     page: "https://adeelyousaf.github.io/SAGE_ECCV26_Project_Page/"
+    code: "https://github.com/Adeelyousaf/SAGE"
+    video: "https://www.youtube.com/watch?v=BVw6WnfG2iw"
+    huggingface: "https://huggingface.co/Adeely93/SAGE"
 
 
   - title: "SafeR-CLIP: Mitigating NSFW Content in Vision-Language Models While Preserving Pre-Trained Knowledge"
