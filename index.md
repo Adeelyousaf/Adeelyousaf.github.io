@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a **fifth-year Ph.D. student** at the **University of Central Florida (UCF)**, where I am advised by **Dr. Mubarak Shah**. My research focuses on AI safety for multimodal models, with an emphasis on safety alignment that preserves utility: reducing harmful outputs in vision–language, text-to-image diffusion, and multimodal reasoning models without eroding what the base model already knows. My work has been published in prestigious conferences such as **NeurIPS**, **ECCV**, and **AAAI**. I have also worked on funded research projects from DARPA and IARPA, spanning safety alignment of multimodal reasoning models and person re-identification at altitude and range. Earlier in my Ph.D., I worked on video understanding and action recognition.
+I am a **fifth-year Ph.D. student** at the **University of Central Florida (UCF)**, advised by **Prof. Mubarak Shah**. My research focuses on AI safety and alignment for multimodal foundation models, with an emphasis on improving safety while preserving utility and pretrained capabilities. My work spans vision–language models, multimodal reasoning models, and text-to-image diffusion models, and has been published at **NeurIPS**, **ECCV**, and **AAAI**.
+
+I have also worked on funded research projects from DARPA and IARPA, spanning safety alignment of multimodal reasoning models and person re-identification at altitude and range. Earlier in my Ph.D., I worked on video understanding and action recognition.
 
 ---
 
