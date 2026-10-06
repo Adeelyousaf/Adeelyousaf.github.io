@@ -20,7 +20,6 @@ I am a Fulbright Ph.D. Scholar at the University of Central Florida (UCF), where
 ## News
 
 - **[Oct. 2026]** *Safe in Its Own Words: Self-Guided Safety Alignment for Multimodal Reasoning Models* accepted to <span class="news-conf">NeurIPS 2026 (Main Track)</span>.
-- More updates coming soon!
 - **[Jun. 2026]** *The Illusion of High Utility in Safety Alignment of Text-to-Image Diffusion Models* accepted to <span class="news-conf">ECCV 2026</span>.
 - **[Nov. 2025]** *SafeR-CLIP* accepted to <span class="news-conf">AAAI 2026 (Main Technical Track)</span>.
 - **[Aug. 2025]** <span class="news-conf">ICCV 2025</span> Workshop paper accepted (**Oral Presentation**).
