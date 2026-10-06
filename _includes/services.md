@@ -11,7 +11,7 @@
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
 ### Mentoring & Teaching
-- Mentor, **NSF Research Experiences for Undergraduates (REU)**, 2024
+- Mentor, **NSF Research Experiences for Undergraduates (REU)**, 2024, 2026
 - Mentor, **Fulbright Ph.D. Student Cohort**, 2023
 - Graduate Teaching Assistant, University of Central Florida  
   *(Robot Vision; Introduction to Programming with C/C++)*
