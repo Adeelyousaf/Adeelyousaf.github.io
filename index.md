@@ -20,7 +20,7 @@ I am a Fulbright Ph.D. Scholar at the University of Central Florida (UCF), where
 ## News
 
 - **[Oct. 2026]** Paper accepted to <span class="news-conf">NeurIPS 2026</span> (First Author, Main Track).
-- **[Jun. 2026]** Paper accepted to <span class="news-conf">ECCV 2026</span> (First Author).
+- **[Jun. 2026]** Paper accepted to <span class="news-conf">ECCV 2026</span> (First Author, Main Track).
 - **[Nov. 2025]** Paper accepted to <span class="news-conf">AAAI 2026</span> (First Author, Main Track).
 - **[Aug. 2025]** Paper accepted to <span class="news-conf">ICCV 2025</span> Workshop (First Author, Oral Presentation).
 - **[Jun. 2023]** Paper accepted to <span class="news-conf">IROS 2023</span>.
