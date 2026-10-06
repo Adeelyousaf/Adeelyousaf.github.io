@@ -48,6 +48,9 @@
         {% if pub.huggingface %}
           <a href="{{ pub.huggingface }}" class="btn btn-sm z-depth-0" target="_blank">HF Model</a>
         {% endif %}
+        {% if pub.dataset %}
+          <a href="{{ pub.dataset }}" class="btn btn-sm z-depth-0" target="_blank">HF Dataset</a>
+        {% endif %}
         {% if pub.page %}
           <a href="{{ pub.page }}" class="btn btn-sm z-depth-0" target="_blank">Project Page</a>
         {% endif %}

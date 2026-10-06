@@ -18,6 +18,9 @@ main:
     image: "assets/img/safer-clip.png"
     pdf: "https://arxiv.org/abs/2511.16743"
     page: "https://adeelyousaf.github.io/SC-Project-Page/"
+    code: "https://github.com/Adeelyousaf/SafeRCLIP"
+    huggingface: "https://huggingface.co/Adeely93/SafeR_CLIP"
+    dataset: "https://huggingface.co/datasets/Adeely93/NSFWCaps"
     notes: "Main Track"
 
 
