@@ -27,7 +27,7 @@ I have also worked on funded research projects from DARPA and IARPA, spanning sa
 - **[Jun. 2026]** Paper accepted to <span class="news-conf">ECCV 2026</span> (First Author, Main Track).
 - **[Nov. 2025]** Paper accepted to <span class="news-conf">AAAI 2026</span> (First Author, Main Track).
 - **[Aug. 2025]** Paper accepted to <span class="news-conf">ICCV 2025</span> Workshop (First Author, Oral Presentation).
-- **[Jun. 2023]** Paper accepted to <span class="news-conf">IROS 2023</span>.
+- **[Jun. 2023]** Paper accepted to <span class="news-conf">IROS 2023</span> (Main Track).
 - **[May 2022]** Began research on the **Biometric Recognition and Identification at Altitude and Range (BRIAR)** program, funded by **IARPA**.
 - **[Jan. 2022]** Started Ph.D. at the **University of Central Florida** under **Dr. Mubarak Shah**; awarded the **Fulbright Ph.D. Fellowship**.
 
